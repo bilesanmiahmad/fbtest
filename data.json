@@ -1,0 +1,33 @@
+{"data": [
+	{
+	"id": 34,
+	"first_name": "Kennedy",
+	"last_name": "Adesola",
+	"company": {
+		"id": 45,
+		"role": "Managing Director",
+		"is_current": true,
+		"company": {
+			"id": 56,
+			"name": "FlareGH",
+			"branch": "Accra",
+			"dept": "Technology",
+			"website": "www.flaregh.com",
+			"address": {
+				"id": 34,
+				"line1": "",
+				"line2": "",
+				"line3": "",
+				"city": "East Legon",
+				"state": "Accra",
+				"country": "Ghana",
+				"postcode": "",
+				"longitude": "",
+				"latitude": ""
+			}
+		}
+
+	}
+}
+]
+}
